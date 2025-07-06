@@ -201,7 +201,7 @@ class AsteroidTracker:
         self.canvas.get_tk_widget().pack(fill="both", expand=True)
 
     def load_config(self):
-        self.api_key = "G6NAxklvMSP6kHsNOH1Uq6Wvi7APGcmSdamCTRjd"
+        self.api_key = "SUA API KEY"
         try:
             if os.path.exists("config.json"):
                 with open("config.json") as f:
