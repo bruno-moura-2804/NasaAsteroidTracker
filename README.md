@@ -37,8 +37,11 @@ To use the app with full functionality:
 
 Visit api.nasa.gov
 Sign up and get your free API key
+
 Inside the app: click File → Load API Key and paste it
+
 Your key will be saved locally in config.json
+
 If no key is provided, it uses the limited DEMO_KEY.
 
 ## 📈 Data Visualization
